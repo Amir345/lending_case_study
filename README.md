@@ -1,51 +1,43 @@
 # Lending Club Case Study
-Resrouces related to Lending Case Study
-
-# Project Name
-> Outline a brief description of your project.
+#### This project aims to find the driver variables that are responsible for Loan Default
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Resources](#resources)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This case study uses EDA (Exploratory data analysis technique to solve the problem of loan default)
+- Lending Club has seen a rise in default number of loans, which is causing big losses to the organization.
+- With this case study we are tryinhg to analyse the given dataset provided by lending club for the loans that were issues during the year 2007 to 2011 in order to identify main reasons why people are defaulting.
+- Lending Club can add these driver variables to their risk assesment to cut down on these faulty loans.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loan amount & interest rate is one of the major driver in default rate.
+- Small business loan category is another major driver for loan defaults.
+- States like Nebraska are defaulting most.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- libraries - pandas, matplotlib, seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+## Resources
+- Dataset (loan.csv)
+- Data Dictionary (Data_Dictionary.xlsx)
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Amir345] - feel free to contact me!
 
 
 <!-- Optional -->
